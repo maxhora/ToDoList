@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainPage.qml</file>
+        <file>MainPageForm.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>AboutDialog.qml</file>
+        <file>AboutDialogForm.ui.qml</file>
+        <file>DonePage.qml</file>
+        <file>DonePageForm.ui.qml</file>
+        <file>TaskListDelegateModel.qml</file>
+        <file>ColorPicker.qml</file>
+    </qresource>
+</RCC>
